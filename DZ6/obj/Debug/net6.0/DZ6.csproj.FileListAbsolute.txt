@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/ Lesson6/DZ6/bin/Debug/net6.0/DZ6
+/Users/ekaterina/Desktop/ Lesson6/DZ6/bin/Debug/net6.0/DZ6.deps.json
+/Users/ekaterina/Desktop/ Lesson6/DZ6/bin/Debug/net6.0/DZ6.runtimeconfig.json
+/Users/ekaterina/Desktop/ Lesson6/DZ6/bin/Debug/net6.0/DZ6.dll
+/Users/ekaterina/Desktop/ Lesson6/DZ6/bin/Debug/net6.0/DZ6.pdb
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.AssemblyInfo.cs
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.dll
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/refint/DZ6.dll
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.pdb
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/DZ6.genruntimeconfig.cache
+/Users/ekaterina/Desktop/ Lesson6/DZ6/obj/Debug/net6.0/ref/DZ6.dll
